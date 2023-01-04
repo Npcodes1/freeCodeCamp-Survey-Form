@@ -1,5 +1,9 @@
 # freeCodeCamp-Survey-Form
-Build a Survey Form
+
+I created a training survey form for this project. I used HTML and CSS in order to develop a generic form like the ones I have to do at work after a training course.
+
+
+## Build a Survey Form
 Objective: Build an app that is functionally similar to https://survey-form.freecodecamp.rocks
 
 User Stories:
